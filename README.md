@@ -367,8 +367,3 @@ For more about what we've just done please see Heroku's [Getting
 Started with Python] documentation. If Lesson 7 does not cover
 as much material as you'd like you may be interested in Chapter 29 of
 [Django Unleashed].
-
-[Getting Started with Python]: https://devcenter.heroku.com/articles/getting-started-with-python#introduction
-[Django Unleashed]: https://django-unleashed.com/
-
-[🔝 Up to Table of Contents](#table-of-contents)
